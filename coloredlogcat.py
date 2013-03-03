@@ -31,7 +31,16 @@ HIGHLIGHT = [
 
 # List of tags to ignore completely
 IGNORED = [
-    "SpammyApp"
+    "SpammyApp",
+    "WifiStateMachine",
+    "wpa_supplicant",
+    "StateMachine",
+    "PowerManagerService",
+    "StatusBar.NetworkController",
+    "CNE_DEBUG",
+    "SignalStrength",
+    "WifiServiceExt",
+    "qcom_sensors_hal",
 ]
 
 # Width of various columns; set to -1 to hide
